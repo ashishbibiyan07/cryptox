@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cryptox/static/css/main.93c7a341.css",
-    "main.js": "/cryptox/static/js/main.17ca2615.js",
+    "main.js": "/cryptox/static/js/main.c8813ed7.js",
     "static/media/cryp2.png": "/cryptox/static/media/cryp2.9c39420ee3e9dc285692.png",
     "static/media/cryptocurrency.png": "/cryptox/static/media/cryptocurrency.1548aced3f0605895bac.png",
     "index.html": "/cryptox/index.html",
     "main.93c7a341.css.map": "/cryptox/static/css/main.93c7a341.css.map",
-    "main.17ca2615.js.map": "/cryptox/static/js/main.17ca2615.js.map"
+    "main.c8813ed7.js.map": "/cryptox/static/js/main.c8813ed7.js.map"
   },
   "entrypoints": [
     "static/css/main.93c7a341.css",
-    "static/js/main.17ca2615.js"
+    "static/js/main.c8813ed7.js"
   ]
 }
